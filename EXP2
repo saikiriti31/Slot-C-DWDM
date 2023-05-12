@@ -1,0 +1,3 @@
+data<-c(200,300,400,600,1000)
+min(data)
+max(data)
